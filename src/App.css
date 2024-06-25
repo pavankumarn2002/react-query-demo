@@ -1,0 +1,6 @@
+.nav{
+  display:flex;list-style: none;
+}
+.nav li{
+  padding:5px;
+}
